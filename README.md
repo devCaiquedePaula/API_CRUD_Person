@@ -2,6 +2,12 @@
 
 Este projeto é uma **API RESTful completa** que implementa as operações **CRUD** (Create, Read, Update, Delete) para gerenciar dados de pessoas. Ele foi desenvolvido utilizando as **Minimal APIs do .NET 8**, focando na simplicidade e eficiência.
 
+## Swagger UI - PersonCRUD API
+
+Abaixo está a interface gerada pelo Swagger para a API de CRUD de pessoas:
+
+![Swagger PersonCRUD](Images/swaggerAPICRUD.jpg)
+
 ## Tecnologias Utilizadas
 
 *   **C#**
