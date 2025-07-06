@@ -1,0 +1,47 @@
+﻿# IntelliJ project files
+.idea
+*.iml
+out
+gen
+
+## Compiled files
+bin/
+obj/
+
+## Rider
+.idea/
+*.sln.iml
+
+## User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Build results
+*.dll
+*.exe
+*.app
+*.log
+
+## NuGet
+*.nupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+artifcats/
+
+## VS Code
+.vscode/
+
+## Mac OS
+.DS_Store
+
+## DotCover
+*.dotCover
+
+## Logs
+*.log
+
+## Other
+.vs/
